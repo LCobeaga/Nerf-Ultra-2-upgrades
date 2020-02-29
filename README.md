@@ -1,11 +1,13 @@
 # Nerf-Ultra-2-upgrades
 Modifications for the Nerf Ultra 2 to improve performance
 
-Current plans for the Ultra 2 are :
-- new cylinder that can hold regular darts that is not just a barrel insert 
-- increase capacity of cylinder to 8+ darts
-- new flywheel cage to compensate for the change in dart center position (due to smaller dart diameter and same sized cylinder)
-- new flywheels in the vain of Kuryaka's daybreaks, but keep cage compatible with original wheels
+This is essentially a drop in replacement for the ultra 2 to fire regular size elite darts. 
+Currently there is a single 9 dart replacement cylinder, and flywheel cages meant for 130-180 sized motors. 
+
+Other than the actual components of the flywheel cage (i.e. motors, wheels, etc) only a stronger sprint or a doubled up one is needed for the kit and it is optional. 
+The spring helps with retaining cylinder position WHILE NOT FIRING thus it is prefrence whether your cylinder holds well enough for you. 
+
+I have taken the time to add a parametric feature to the fusion 360 file, so if you want a flywheel spacing that I didnt supply as an stl it should be as simple as putting in the new preffered dimention in a single, highlited and named spot in the parametric menu. 
 
 Future plans for the blaster are:
 - brushless motor support, as the flywheel cage is similar in dimention to the cage used on Shadow Price
