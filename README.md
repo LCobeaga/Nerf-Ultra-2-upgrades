@@ -9,28 +9,16 @@ The spring helps with retaining cylinder position WHILE NOT FIRING thus it is pr
 
 I have taken the time to add a parametric feature to the fusion 360 file, so if you want a flywheel spacing that I didnt supply as an stl it should be as simple as putting in the new preffered dimention in a single, highlited and named spot in the parametric menu. 
 
-## Hardware list
-
-You will need:
-
-- A second or stronger spring for the cylinder
-- A pair of 130-180 sized motors
-- A pair of flywheels
-
 ## Assembly and Blaster Modifications
 
 #### This kit is not just a drop in, you will need to make some permanent modifications to the blaster, however the changes should not impact switching back to the stock hardware.
 
-To make the blaster feed consistently, you'll need to cut away some material near and on the pusher. 
+To make the blaster feed consistently, you'll need to cut away some material near the pusher. 
 Below are some photos of how your blaster should look after you make the cuts.
 
 ![knob removal](https://user-images.githubusercontent.com/44830532/75729258-1c258d80-5c9f-11ea-8cfb-54cff99ae610.jpg)
 
-![pusher left](https://user-images.githubusercontent.com/44830532/75729169-d4066b00-5c9e-11ea-8512-7478d71844c8.jpg)
-
-![pusher right](https://user-images.githubusercontent.com/44830532/75729179-dcf73c80-5c9e-11ea-9a69-3cdf964dcad7.jpg)
-
-You do not need to worry about cutting the plastic block on the other side of the blaster, since the darts are fired before they hit the tab.
+![knob removal right](https://user-images.githubusercontent.com/44830532/75854512-42cdec00-5da5-11ea-8c54-389c8b60d8b7.jpg)
 
 You will also need to make sure your trigger has the longest possible draw, so make sure it is aligned as below. 
 
