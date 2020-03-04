@@ -33,3 +33,5 @@ Future plans for the blaster are:
 
 As a final note, I'm working on my own micro-brushless flywheel hand-cannons so most likely I wont get to everything on this list. 
 I do , however, want to "port" (measure and try to copy the blaster into CAD) as much of the blaster as I can so that anyone who is passionate of the blaster can get right into personalizing and modding it, instead of spending days measuring and testing first.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
