@@ -1,10 +1,10 @@
 # Nerf-Ultra-2-upgrades
 Modifications for the Nerf Ultra 2 to improve performance
 
-This is essentially a drop in replacement for the ultra 2 to fire regular size elite darts. 
-Currently there is a single 9 dart replacement cylinder, and flywheel cages meant for 130-180 sized motors. 
+This is essentially a replacement for the Ultra 2 to fire regular sized elite darts. 
+Currently there is a single 9 dart replacement cylinder, its retention plate, a pusher, and flywheel cages meant for 130-180 sized motors. 
 
-Other than the actual components of the flywheel cage (i.e. motors, wheels, etc) only a stronger sprint or a doubled up one is needed for the kit and it is optional. 
+Other than the actual components of the flywheel cage (i.e. motors, wheels) a stronger spring or a doubled up one can be used for the kit, however it is optional. 
 The spring helps with retaining cylinder position WHILE NOT FIRING thus it is prefrence whether your cylinder holds well enough for you. 
 
 I have taken the time to add a parametric feature to the fusion 360 file, so if you want a flywheel spacing that I didnt supply as an stl it should be as simple as putting in the new preffered dimention in a single, highlited and named spot in the parametric menu. 
@@ -19,6 +19,8 @@ Below are some photos of how your blaster should look after you make the cuts.
 ![knob removal](https://user-images.githubusercontent.com/44830532/75729258-1c258d80-5c9f-11ea-8cfb-54cff99ae610.jpg)
 
 ![knob removal right](https://user-images.githubusercontent.com/44830532/75854512-42cdec00-5da5-11ea-8c54-389c8b60d8b7.jpg)
+
+![peg removal](https://user-images.githubusercontent.com/44830532/76170635-187f8400-6141-11ea-9681-406df10215be.jpg)
 
 You will also need to make sure your trigger has the longest possible draw, so make sure it is aligned as below. 
 
