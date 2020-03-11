@@ -9,6 +9,8 @@ The spring helps with retaining cylinder position WHILE NOT FIRING thus it is pr
 
 I have taken the time to add a parametric feature to the fusion 360 file, so if you want a flywheel spacing that I didnt supply as an stl it should be as simple as putting in the new preffered dimention in a single, highlited and named spot in the parametric menu. 
 
+There are currently two sets of flywheel cages and pushers, original and V2. They both function perfectly, however the V2 has been optimised for fewest parts, and least amount of material (both support and actual print). 
+
 ## Assembly and Blaster Modifications
 
 #### This kit is not just a drop in, you will need to make some permanent modifications to the blaster, however the changes should not impact switching back to the stock hardware.
