@@ -11,6 +11,8 @@ I have taken the time to add a parametric feature to the fusion 360 file, so if 
 
 There are currently two sets of flywheel cages and pushers, original and V2. They both function perfectly, however the V2 has been optimised for fewest parts, and least amount of material (both support and actual print). 
 
+If you like this design but don't have a printer yourself, you can purchase it from Rad Blasters on etsy https://www.etsy.com/shop/RadBlasters.
+
 ## Assembly and Blaster Modifications
 
 #### This kit is not just a drop in, you will need to make some permanent modifications to the blaster, however the changes should not impact switching back to the stock hardware.
@@ -28,10 +30,26 @@ You will also need to make sure your trigger has the longest possible draw, so m
 
 ![trigger placement](https://user-images.githubusercontent.com/44830532/75729209-03b57300-5c9f-11ea-90f6-0ef908935e13.jpg)
 
+## Grip Insert
+
+Thr grip filler is a single, snap-in part that fills in the front and sides of the grip to make it more comfortable.
+The insert works with the stock rev trigger, but the rev trigger goes nearly flush against it, so I will make a new rev trigger soon. 
+
+Below is installation photos.
+
+First place the grip up against the circle at the top of the rev trigger.
+
+![slot grip](https://user-images.githubusercontent.com/44830532/79177417-9de8fa80-7db7-11ea-8854-48ab8c5b531e.jpg)
+
+Then push the tabs over the triangular knob on the bottom.
+
+![push in grip](https://user-images.githubusercontent.com/44830532/79177543-edc7c180-7db7-11ea-8ca2-572a2208cfc5.jpg)
+
+Lightly squeeze the sides to make sure its in and it should be solid. 
+To remove pull up on both of the tabs that point to the bottom of the grip and rotate it out.
+
 Future plans for the blaster are:
 - brushless motor support, as the flywheel cage is similar in dimention to the cage used on Shadow Price
-- larger grip for more comfortable use
-  - also in favor of just grip inserts that fill in the front of the grip and cover the spike at the bottom
 - rev trigger with a greater slant or curved surface, akin to Bobololo's rev trigger
 - cosmetic variants to the barrel that would replace the entire component pair
 
